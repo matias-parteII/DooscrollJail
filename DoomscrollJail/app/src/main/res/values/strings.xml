@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">DoomscrollJail</string>
-    <string name="accessibility_service_description">Monitors YouTube Shorts, Instagram Reels, and TikTok feeds to automatically exit short-form video loops unless opened directly from a chat message.</string>
-</resources>
